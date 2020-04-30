@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17ef50e87fd60500371e443ba917615b",
+    "revision": "b3923529219f93fa84910fbea96c83ba",
     "url": "./index.html"
   },
   {
-    "revision": "5aaf5ac94c0feb0d926d",
+    "revision": "9a40900e51cf2afea8ea",
     "url": "./static/css/2.733ba2d0.chunk.css"
   },
   {
-    "revision": "a0af7baf90997e3d820e",
-    "url": "./static/css/main.9096352c.chunk.css"
+    "revision": "cde4f5f4cb31fdd63cf5",
+    "url": "./static/css/main.5f718ea6.chunk.css"
   },
   {
-    "revision": "5aaf5ac94c0feb0d926d",
-    "url": "./static/js/2.307cadae.chunk.js"
+    "revision": "9a40900e51cf2afea8ea",
+    "url": "./static/js/2.20b90a0a.chunk.js"
   },
   {
     "revision": "127104083c2e320bb465a7fd5655b5e0",
-    "url": "./static/js/2.307cadae.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.20b90a0a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0af7baf90997e3d820e",
-    "url": "./static/js/main.c05861b5.chunk.js"
+    "revision": "cde4f5f4cb31fdd63cf5",
+    "url": "./static/js/main.5931752e.chunk.js"
   },
   {
     "revision": "f038ae0613f2fdab979c",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/durka.21e4ebc2.png"
   },
   {
+    "revision": "969059b52b03f5a93d0cac73deb7da34",
+    "url": "./static/media/films.969059b5.png"
+  },
+  {
     "revision": "6a30299509298ddd9f66c25c267699f0",
     "url": "./static/media/goldBox.6a302995.svg"
   },
@@ -80,12 +84,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/graphicsСard.a5f2f27a.svg"
   },
   {
+    "revision": "26caf96912566160fcafc5814d981843",
+    "url": "./static/media/joker.26caf969.png"
+  },
+  {
     "revision": "ac805c08bdd3de208c825942b3f725ef",
     "url": "./static/media/klunka.ac805c08.png"
   },
   {
     "revision": "3512c7e40a8fed7a94e9bf865066dd6a",
     "url": "./static/media/kolpak.3512c7e4.svg"
+  },
+  {
+    "revision": "4f53c0977299a616c0c9ab0d9aaceab7",
+    "url": "./static/media/malibu.4f53c097.png"
   },
   {
     "revision": "6110850b4e5c2c31791c6f6e7ebf5dd7",
