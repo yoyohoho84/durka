@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "./static/css/main.72940272.chunk.css",
-    "main.js": "./static/js/main.7f21ea86.chunk.js",
+    "main.js": "./static/js/main.354103a2.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.4814125e.js",
     "static/css/2.55851008.chunk.css": "./static/css/2.55851008.chunk.css",
-    "static/js/2.6b9d4635.chunk.js": "./static/js/2.6b9d4635.chunk.js",
+    "static/js/2.d08e99de.chunk.js": "./static/js/2.d08e99de.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.26949acd39e933a8f3d205d9d2d949fe.js": "./precache-manifest.26949acd39e933a8f3d205d9d2d949fe.js",
+    "precache-manifest.ba47b32c429bdf7ca472d3d41fd0c9b7.js": "./precache-manifest.ba47b32c429bdf7ca472d3d41fd0c9b7.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.6b9d4635.chunk.js.LICENSE.txt": "./static/js/2.6b9d4635.chunk.js.LICENSE.txt",
+    "static/js/2.d08e99de.chunk.js.LICENSE.txt": "./static/js/2.d08e99de.chunk.js.LICENSE.txt",
     "static/media/icons.sass": "./static/media/superPC.cb241ebf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4814125e.js",
     "static/css/2.55851008.chunk.css",
-    "static/js/2.6b9d4635.chunk.js",
+    "static/js/2.d08e99de.chunk.js",
     "static/css/main.72940272.chunk.css",
-    "static/js/main.7f21ea86.chunk.js"
+    "static/js/main.354103a2.chunk.js"
   ]
 }
